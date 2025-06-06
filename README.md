@@ -4,4 +4,6 @@
 
 I love Git and Github!
 
+I'm editing this in [Neovim](https://neovim.io/)
+
 *This file has been edited.*
